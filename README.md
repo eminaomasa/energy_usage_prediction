@@ -27,11 +27,11 @@ Considering this is the regression model, we evaluated ten machine learning algo
 5.	Decision Tree 
 6.	Random Forest
 7.	Gradient Boosting (GBM)
-8.	Light Gradient Boosting (Light BGM)
+8.	Light Gradient Boosting (Light GBM)
 9.	Extreme Gradient Boosting (XGBM)
 10.	Adaboost
 
-To reduce the parameter turning time, we first checked each model’s R2 score in a default setting, and then for the top-performing models, we did hyperparameter tuning with a grid search. Following this method, we picked Light BGM as our final model. 
+To reduce the parameter turning time, we first checked each model’s R2 score in a default setting, and then for the top-performing models, we did hyperparameter tuning with a grid search. Following this method, we picked Light GBM as our final model. 
 
 For modeling, pleasre read our notebooks.
 - [Modeling Notebook](add link)
