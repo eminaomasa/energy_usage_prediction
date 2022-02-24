@@ -48,7 +48,7 @@ For additional questions, please contact: Aisha Baitemirova-Othman, [Emiko Naoma
 
 ```
 ├── README.md                           
-├── Data Clearning.ipynb                            <- Data Celaning Notebook
+├── Data Cleaning.ipynb                             <- Data Celaning Notebook
 ├── EDA.ipynb                                       <- EDA Notebook
 ├── Modeling.ipynb                                  <- Modeling Notebook for Model 1
 └── Data                                            <- Data downloaded from the kaggle competition
