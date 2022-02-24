@@ -9,7 +9,7 @@ To fill this gap of building energy consumption data availability, we developed 
 The model was submitted to a [Kaggle competition](https://www.kaggle.com/c/widsdatathon2022/overview/description) that WiDS Datathon 2022 hosts. 
 
 ## Data:
-The data set is provided through a Kaggle competition. Our target variable is the annual energy usage per square foot of a building, called **the site energy usage intensity (EUI)**. Our features include **building characteristics (e.g., floor area, years of built, facility type)** and **weather data for the building’s location (e.g., annual average temperature, annual total precipitation, annual snowfalls)**. We received the training set with the target variable and the test set without the target variable. The target set is used for submission to the Kaggle competition. The training data has 75,757 observations covering 6 years from 7 states. The years and states are anonymized. 
+The data set is provided through a Kaggle competition. Our target variable is the annual energy usage per square foot of a building, called **the site energy usage intensity (EUI)**. Our features include **building characteristics** (e.g., floor area, years of built, facility type) and **weather data for the building’s location** (e.g., annual average temperature, annual total precipitation, annual snowfalls). We received the training set with the target variable and the test set without the target variable. The target set is used for submission to the Kaggle competition. The training data has 75,757 observations covering 6 years from 7 states. The years and states are anonymized. 
 
 The detailed list of features in our model is [here](https://www.kaggle.com/c/widsdatathon2022/data). 
 
@@ -33,7 +33,7 @@ Considering this is the regression model, we evaluated ten machine learning algo
 
 To reduce the parameter turning time, we first checked each model’s R2 score in a default setting, and then for the top-performing models, we did hyperparameter tuning with a grid search. Following this method, we picked Light BGM as our final model. 
 
-For modeling, pleasre read out notebooks.
+For modeling, pleasre read our notebooks.
 - [Modeling Notebook](add link)
 
 ## Model Validation:
