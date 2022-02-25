@@ -42,13 +42,13 @@ For modeling, pleasre read our notebooks.
 ## Next Steps:
 
 ## For Mode Information
-For additional questions, please contact: Aisha Baitemirova-Othman, [Emiko Naomasa](https://www.linkedin.com/in/emiko-naomasa-58782158/)
+For additional questions, please contact: [Aisha Baitemirova-Othman](https://www.linkedin.com/in/aishabaitemirovaothman/), [Emiko Naomasa](https://www.linkedin.com/in/emiko-naomasa-58782158/)
 
 ## Repository Structure
 
 ```
 ├── README.md                           
-├── Data Cleaning.ipynb                             <- Data Celaning Notebook
+├── Data Cleaning.ipynb                             <- Data Cleaning Notebook
 ├── EDA.ipynb                                       <- EDA Notebook
 ├── Modeling.ipynb                                  <- Modeling Notebook for Model 1
 └── Data                                            <- Data downloaded from the kaggle competition
