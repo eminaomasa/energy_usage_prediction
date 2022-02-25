@@ -14,7 +14,7 @@ The data set is provided through a Kaggle competition. Our target variable is th
 The detailed list of features in our model is [here](https://www.kaggle.com/c/widsdatathon2022/data). 
 
 For data cleaning and EDA, please read our notebooks.
-- [Data Cleaning Notebook](add link)
+- [Data Cleaning Notebook](https://github.com/eminaomasa/energy_usage_prediction/blob/main/DataCleaning.ipynb)
 - [EDA Notebook](https://github.com/eminaomasa/energy_usage_prediction/blob/main/EDA.ipynb)
 
 ## Modeling: 
