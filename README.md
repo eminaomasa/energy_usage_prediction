@@ -15,7 +15,7 @@ The detailed list of features in our model is [here](https://www.kaggle.com/c/wi
 
 For data cleaning and EDA, please read our notebooks.
 - [Data Cleaning Notebook](add link)
-- [EDA Notebook](add link)
+- [EDA Notebook](https://github.com/eminaomasa/energy_usage_prediction/blob/main/EDA.ipynb)
 
 ## Modeling: 
 Considering this is the regression model, we evaluated ten machine learning algorithms to predict EUI. We used R2 scores to select the final model. 
@@ -32,6 +32,9 @@ Considering this is the regression model, we evaluated ten machine learning algo
 10.	Adaboost
 
 To reduce the parameter turning time, we first checked each model’s R2 score in a default setting, and then for the top-performing models, we did hyperparameter tuning with a grid search. Following this method, we picked Light GBM as our final model. 
+
+**Figure: R2 score for 10 models** 
+Add bar graph plotting R2 for 10 models.  
 
 For modeling, pleasre read our notebooks.
 - [Modeling Notebook](add link)
