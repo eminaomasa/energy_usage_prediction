@@ -1,5 +1,5 @@
 # Predicting Building Energy Usage for WiDS Datathon 2022
-**Author: Aisha Baitemirova-Othman, Emiko Naomasa**
+**Authors: Aisha Baitemirova-Othman, Emiko Naomasa**
 
 ## Objectives:
 Buildings accounted for 37% of global greenhouse gas emissions in 2020 ([IEA 2020](https://www.iea.org/reports/tracking-buildings-2021)). “Green building” is key to achieving the Paris Agreement goal. Policymakers and urban planners around the world employ various policy tools, such as building codes or financial incentives programs to retrofit, to improve the energy efficiency of buildings and construction sectors. For the program’s effective intervention, detailed data of energy consumption for each building is necessary. For example, many states in the U.S. mandate building energy disclosure, yet, it is still far from covering all buildings in the U.S. 
@@ -37,7 +37,7 @@ To reduce the parameter turning time, we first checked each model’s R2 score i
 
 Here, add bar graph plotting R2 for 10 models.  
 
-For modeling, pleasre read our notebooks.
+For modeling, please read our notebooks.
 - [Modeling Notebook](add link)
 
 ## Model Validation:
