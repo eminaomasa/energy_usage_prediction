@@ -31,7 +31,7 @@ Considering this is the regression model, we evaluated ten machine learning algo
 9.	Extreme Gradient Boosting (XGBM)
 10.	Adaboost
 
-To reduce the parameter turning time, we first checked each model’s R2 score in a default setting, and then for the top-performing models, we did hyperparameter tuning with a grid search. Following this method, we picked Light GBM as our final model (see Figrue 1). 
+To reduce the parameter turning time, we first checked each model’s R2 score in a default setting, and then for the top-performing models, we did hyperparameter tuning with a grid search. Following this method, we picked Light GBM as our final model (see Figure 1). 
 
 **Figure 1: R2 scores for 10 models**
 
