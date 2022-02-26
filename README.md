@@ -68,11 +68,12 @@ For additional questions, please contact: [Aisha Baitemirova-Othman](https://www
 ## Repository Structure
 
 ```
-├── README.md                           
+├── Data                                            <- Data downloaded from the kaggle competition
+├── .gitignore                                      <- .gitignore file 
 ├── Data Cleaning.ipynb                             <- Data Cleaning Notebook
 ├── EDA.ipynb                                       <- EDA Notebook
 ├── Modeling.ipynb                                  <- Modeling Notebook
-└── Data                                            <- Data downloaded from the kaggle competition
+└── README.md                                       <- README file                                           
                            
 ```  
 Note: Large or sensitive files are listed in .gitignore and not pushed to GitHub. 
