@@ -59,6 +59,7 @@ Last, we examined the important features within our final model. Figure 2 displa
 We will keep working on improving the performance of our predictive model. There are several steps that we are going to take in order to achieve that:
 - Perform dimensionality reduction using PCA in order to reduce the number of features in the dataset and see if that can help models predict more accurately.
 - Try Neural Networks. In particular, we would like to try the following Deep Neural Networks: Multi-Layer Perceptrons (MLP), Convolutional Neural Networks (CNN), and Recurrent Neural Networks (RNN).
+- We would also like to try a different way to impute the missing values in the data and see if that can affect the outcome of predictions. 
 
 
 ## For More Information
