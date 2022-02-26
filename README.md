@@ -34,7 +34,7 @@ Considering this is the regression model, we evaluated ten machine learning algo
 To reduce the parameter turning time, we first checked each model’s R2 score in a default setting, and then for the top-performing models, we did hyperparameter tuning with a grid search. Following this method, we picked Light GBM as our final model (see Figure 1).  
 
 For modeling, please read our notebooks.
-- [Modeling Notebook](add link)
+- [Modeling Notebook](https://github.com/eminaomasa/energy_usage_prediction/blob/main/Modeling.ipynb)
 
 ## Model Validation
 Figure 1 plots the R2 scores for ten models as well as the R2 score of our final model. Among ten models, Model 8 (Light GBM) apparently outperforms in terms of R2 scores. So, we chose the Light GBM as our candidate for the final model. After hyperparameter tuning, the Light GBM model’s R2 score increased from 0.5365 to 0.5995 (Final Model in Figure 1).  
