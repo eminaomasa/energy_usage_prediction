@@ -1,3 +1,5 @@
+![building-with-lights-on-960x470](https://user-images.githubusercontent.com/92397144/155853109-d460d7b1-c9ea-4e1d-9a30-8667969b1955.jpg)
+
 # Predicting Building Energy Usage for WiDS Datathon 2022
 **Authors: Aisha Baitemirova-Othman, Emiko Naomasa**
 
