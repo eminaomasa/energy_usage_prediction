@@ -74,7 +74,7 @@ For additional questions, please contact: [Aisha Baitemirova-Othman](https://www
 ├── .gitignore                                      <- .gitignore file 
 ├── Data Cleaning.ipynb                             <- Data Cleaning Notebook
 ├── EDA.ipynb                                       <- EDA Notebook
-├── LICENSE
+├── LICENSE                                         <- LICENSE
 ├── Modeling.ipynb                                  <- Modeling Notebook
 └── README.md                                       <- README file                                           
                            
