@@ -56,7 +56,12 @@ Last, we examined the important features within our final model. Figure 2 displa
 
 ## Next Steps
 
-## For Mode Information
+We will keep working on improving the performance of our predictive model. There are several steps that we are going to take in order to achieve that:
+- Perform dimensionality reduction using PCA in order to reduce the number of features in the dataset and see if that can help models predict more accurately.
+- Try Neural Networks. In particular, we would like to try the following Deep Neural Networks: Multi-Layer Perceptrons (MLP), Convolutional Neural Networks (CNN), and Recurrent Neural Networks (RNN).
+
+
+## For More Information
 For additional questions, please contact: [Aisha Baitemirova-Othman](https://www.linkedin.com/in/aishabaitemirovaothman/), [Emiko Naomasa](https://www.linkedin.com/in/emiko-naomasa-58782158/)
 
 ## Repository Structure
